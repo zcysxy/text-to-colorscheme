@@ -112,8 +112,8 @@ require('text-to-colorscheme').setup {
            "#5a8ad1",
         }
      },
-     default_palette = "jungle",
-  }
+  },
+  default_palette = "jungle",
 }
 ```
 
